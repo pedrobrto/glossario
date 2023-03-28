@@ -9,3 +9,8 @@
 ## Termos
 
 - *SVG* Scalable Vector Graphics `vetorial`
+
+- *PDF* binário, aberto e vetorial.
+
+
+
